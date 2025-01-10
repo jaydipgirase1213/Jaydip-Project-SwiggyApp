@@ -19,3 +19,4 @@ In this **real-time DevOps project**, I demonstrate how to **deploy a Swiggy Clo
 hub.com/user-attachments/assets/de57b20e-0801-4e13-b892-2dfcf637264f)
 ![Screenshot 2025-01-09 130733](https://github.com/user-attachments/assets/adc6e768-365f-4f20-bf31-d52d0c6618c4)
 ![Screenshot 2025-01-09 131135](https://github.com/user-attachments/assets/50927bf8-55a4-4a6d-b8ed-cdfea2b0cbff)
+![Screenshot 2025-01-09 132931](https://github.com/user-attachments/assets/8f567ed4-9ba9-451d-b8c0-c69f1c6c4025)
